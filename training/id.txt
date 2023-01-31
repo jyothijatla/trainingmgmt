@@ -1,0 +1,1 @@
+SELECT * FROM admin_master am, branch_master bm WHERE am.branch_id=bm.branch_id;
